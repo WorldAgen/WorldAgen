@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: "https://ragen-ai.github.io",
-    base: '/',
+    site: "https://WorldAgen.github.io",
+    base: '/WorldAgen/',
 });
